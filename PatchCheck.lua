@@ -1,5 +1,5 @@
 return{
-    Doomspire-Brickbattle == Unpatched,
+    DoomspireBrickbattle == Unpatched,
     
     SCP3008 == Unpatched
     }
