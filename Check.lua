@@ -1,4 +1,4 @@
 return{
-DoomspireBrickbattle_Unpatched,
-SCP3008_Unpatched
+"DoomspireBrickbattle_Unpatched",
+"SCP3008_Unpatched"
 }
