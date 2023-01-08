@@ -1,5 +1,6 @@
 return{
 "DoomspireBrickbattle_Unpatched",
 "SCP3008_Unpatched",
-"VehicleSimulator_Unpatched"
+"VehicleSimulator_Unpatched",
+"Arsenal_Unpatched"
 }
