@@ -872,7 +872,7 @@ function RayfieldLibrary:CreateWindow(Settings)
 	LoadingFrame.Title.Text = Settings.LoadingTitle or "Rayfield Interface Suite"
 	LoadingFrame.Subtitle.Text = Settings.LoadingSubtitle or "by Sirius"
 	if Settings.LoadingTitle ~= "Rayfield Interface Suite" then
-		LoadingFrame.Version.Text = "1.0"
+		LoadingFrame.Version.Text = "2.0"
 	end
 	Topbar.Visible = false
 	Elements.Visible = false
